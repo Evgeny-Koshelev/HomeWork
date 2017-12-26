@@ -1,0 +1,14 @@
+C:\Users\Sky-1999\source\repos\атт3\10.1.20\bin\Debug\10.1.20.exe.config
+C:\Users\Sky-1999\source\repos\атт3\10.1.20\bin\Debug\10.1.20.exe
+C:\Users\Sky-1999\source\repos\атт3\10.1.20\bin\Debug\10.1.20.pdb
+C:\Users\Sky-1999\source\repos\атт3\10.1.20\bin\Debug\Logic.dll
+C:\Users\Sky-1999\source\repos\атт3\10.1.20\bin\Debug\Utils.dll
+C:\Users\Sky-1999\source\repos\атт3\10.1.20\bin\Debug\Logic.pdb
+C:\Users\Sky-1999\source\repos\атт3\10.1.20\bin\Debug\Utils.pdb
+C:\Users\Sky-1999\source\repos\атт3\10.1.20\obj\Debug\10.1.20.csprojResolveAssemblyReference.cache
+C:\Users\Sky-1999\source\repos\атт3\10.1.20\obj\Debug\_10._1._20.Form1.resources
+C:\Users\Sky-1999\source\repos\атт3\10.1.20\obj\Debug\_10._1._20.Properties.Resources.resources
+C:\Users\Sky-1999\source\repos\атт3\10.1.20\obj\Debug\10.1.20.csproj.GenerateResource.Cache
+C:\Users\Sky-1999\source\repos\атт3\10.1.20\obj\Debug\10.1.20.csproj.CoreCompileInputs.cache
+C:\Users\Sky-1999\source\repos\атт3\10.1.20\obj\Debug\10.1.20.exe
+C:\Users\Sky-1999\source\repos\атт3\10.1.20\obj\Debug\10.1.20.pdb

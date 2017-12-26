@@ -1,0 +1,6 @@
+C:\Users\Sky-1999\source\repos\атт3\Logic\bin\Debug\Logic.dll
+C:\Users\Sky-1999\source\repos\атт3\Logic\bin\Debug\Logic.pdb
+C:\Users\Sky-1999\source\repos\атт3\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Sky-1999\source\repos\атт3\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Sky-1999\source\repos\атт3\Logic\obj\Debug\Logic.dll
+C:\Users\Sky-1999\source\repos\атт3\Logic\obj\Debug\Logic.pdb
